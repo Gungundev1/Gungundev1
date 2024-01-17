@@ -7,7 +7,7 @@
 - 📫 How to reach me: agrawalgungun859@gmail.com
 -  Fun fact: ... Ask tomorrow 
 
-⚡<details>	
+<details>	
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gungundev&show_icons=true&locale=en" alt="GunGun" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gungundev&layout=compact"/>
