@@ -8,9 +8,8 @@
 -  Fun fact: ... Ask tomorrow 
 **connect with me**👇
    ___
-<a href= "https://www.hackerrank.com/profile/agrawalgungun859" title="Redirect to Hacker Rank" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg"&logo=hackerrank"&logoColor=green" alt="hackerrank" /></a>
-<details>	
+<a href="https://www.hackerrank.com/profile/agrawalgungun859/" title="Redirect to hackerrank" target="_blank">
+    <img src=https://img.shields.io/badge/hackerrank-FFBF00?style=for-the-badge&logo=hackerrank&logoColor=white<details>	
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gungundev&show_icons=true&locale=en" alt="GunGun" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gungundev&layout=compact"/>
