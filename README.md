@@ -10,6 +10,8 @@
 <p float="left">
     <a href="https://www.linkedin.com/in/gungun-agrawal-6451362a9/" title="Redirect to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    < a href= "https://www.hackerrank.com/profile/agrawalgungun859/" title="Redirect to HackerRank" target="_blank">
+    <img src="https://www.cdnlogo.com/logos/h/58/hackerrank.svg" alt="HackerRank Logo">
    </p>
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gungundev&show_icons=true&locale=en" alt="GunGun" />
