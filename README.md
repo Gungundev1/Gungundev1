@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/gungun-agrawal-6451362a9/" title="Redirect to LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href= "https://www.hackerrank.com/profile/agrawalgungun859" title="Redirect to Hacker Rank" target="_blank">
-    <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg"&logo=hackerrank"&logoColor=black" alt="hackerrank" /></a>
+    <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg"&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
 
    </p>
   <summary><b>⚡ Github Stats</b></summary>
