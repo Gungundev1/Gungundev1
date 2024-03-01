@@ -17,5 +17,6 @@
   <summary><b>⚡ Github Stats</b></summary>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gungundev&show_icons=true&locale=en" alt="GunGun" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gungundev&layout=compact"/>
+<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=gungandev&theme=midnight-purple&hide_border=true"/>
 </details>
 
