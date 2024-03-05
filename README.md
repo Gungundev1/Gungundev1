@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on FrontEnd Developer
 - 🌱 I’m currently learning Java, javaScript
 - 👯 I’m looking to collaborate on FrontEnd
-- 💬 Ask me about HTML, CSS,JavaScript,JAVA
+- 💬 Ask me about HTML, CSS, JavaScript, JAVA
 - 📫 How to reach me: agrawalgungun859@gmail.com
 -  Fun fact: ... Ask tomorrow
 -  ## Connect with me 👇
