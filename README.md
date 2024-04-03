@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Gungun Agrawal
 
 - 🔭 I’m currently working on Java Development
-- 🌱 I’m currently learning Spring Boot, javaScript
-- 👯 I’m looking to collaborate on Java Project
+- 🌱 I’m currently learning Spring-Boot, javaScript
+- 👯 I’m looking to collaborate on Java Projects
 - 💬 Ask me about HTML, CSS, JavaScript, JAVA
 - 📫 How to reach me: agrawalgungun859@gmail.com
 -  Fun fact: Improving day by day....
