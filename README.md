@@ -17,6 +17,6 @@
   <summary><b>⚡ Github Status </b></summary>
 <img height="118em" src="https://github-readme-stats.vercel.app/api?username=Gungundev1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Gungundev1" />
 <img height="118em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gungundev1&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="Gungundev1"/>
-<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=gungundev1&theme=midnight-purple&hide_border=true"/>
+<img height="118em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gungundev1&theme=midnight-purple&hide_border=true"/>
    </details>
 
