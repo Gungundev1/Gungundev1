@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Java Projects
 - 💬 Ask me about HTML, CSS, JavaScript, JAVA
 - 📫 How to reach me: agrawalgungun859@gmail.com
--  Fun fact: Improving day by day.....
+-  Fun fact: Improving day by day......
 -  ## Connect with me 👇
 <p float="left">
     <a href="https://www.linkedin.com/in/gungun-agrawal-6451362a9/" title="Direct to LinkedIn" target="_blank">
