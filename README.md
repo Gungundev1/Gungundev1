@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href= "https://www.hackerrank.com/profile/agrawalgungun859" title="Direct to Hacker Rank" target="_blank">
     <img src="https://img.shields.io/badge/Hackerrank-8B89CC?style=for-the-badge&logo=hackerrank&logoColor=gr" alt="portfolio" /></a>
-  </p>
+</p>
    <details>
   <summary><b>⚡ Github Status </b></summary>
 <img height="118em" src="https://github-readme-stats.vercel.app/api?username=Gungundev1&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="Gungundev1" />
